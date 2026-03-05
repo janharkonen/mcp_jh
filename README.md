@@ -1,1 +1,3 @@
-# mcp_jh
+# RUN THIS SERVER
+
+uv run mcpdemo.py
